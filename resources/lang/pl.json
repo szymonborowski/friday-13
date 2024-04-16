@@ -16,9 +16,10 @@
     "Not much. Jason rage is endless but server resources are limited. You receive no result in this case.": "Nie wiele. Gniew Dzejsona jest nieskończony, ale zasoby tego serwera juz tak. W takim przypadku nie dostaniesz wyników.",
     "Q: ": "P: ",
     "A: ": "O: ",
-    "Size of table": "Rozmiar tabeli",
+    "Size of table": "Rozmiar tablicy",
     "The size field is required": "Pole Rozmiar tabeli jest wymagane.",
     "The size field must be greater than 0.": "Rozmiar tabeli musi być większy od zera.",
     "The size field must be less than 1000": "Rozmiar tabeli musi byc mniejszy od 1000",
-    "Get multiplication array in JSON format": "Złap tablicę mnożenia w formacie JSON"
+    "Get multiplication array in JSON format": "Złap tablicę mnożenia w formacie JSON",
+    "Generate": "Wygeneruj"
 }

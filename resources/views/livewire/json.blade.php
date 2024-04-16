@@ -13,7 +13,7 @@
         <div class="flex flex-row gap-2 pb-4">
             <label class="font-medium text-slate-700 my-auto" for="size">{{ __('Size of table') }}:</label>
             <input class="ring-1 ring-sky-300 p-2" type="text" wire:model="size">
-            <button wire:click="generateJson" type="button" class="w-50 bg-blue-500 py-3 px-2 rounded-lg text-white font-medium">{{ __('Calculate') }}</button>
+            <button wire:click="generateJson" type="button" class="w-50 bg-blue-500 py-3 px-2 rounded-lg text-white font-medium">{{ __('Generate') }}</button>
         </div>
         @if($errors->has('size'))
             <div class="mb-4 ml-24 block">

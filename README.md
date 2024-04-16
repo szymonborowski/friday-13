@@ -1,4 +1,4 @@
-# Aplikacja Dzejson v.1.0.0
+# Aplikacja Dzejson v.1.0.1
 
 Aplikacja służy do generowania tabliczki mnożenia w formacie JSON.
 Rozmiar tablicy musi mieścić się w zakresie od 1 do 1000.
